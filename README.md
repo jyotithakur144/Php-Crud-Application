@@ -26,7 +26,7 @@ HTML / CSS
 📦 Installation & Setup
 
 Clone or download the project:
-git clone https://github.com/jyotithakur144/your-repo.git
+git clone https://github.com/jyotithakur144/Php-Crud-Application
 
 Import the SQL file into your database:
 Create a database (e.g., crud_db)
@@ -45,10 +45,10 @@ Create a folder:
 
 Run the project in your browser:
 
-http://localhost/your-project-folder/
+http://localhost/Php-Crud-Application/
 
 📁 Project Structure
-/crud-php/
+/Php-Crud-Application/
 │-- read.php
 │-- create.php
 │-- update.php
@@ -57,9 +57,11 @@ http://localhost/your-project-folder/
 │-- database.sql      
 │-- uploads/          
 
-📷 Screenshots (optional)
+📷 Screenshots
+<img width="1366" height="223" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/92bbe28b-76a5-459a-ac6a-b27bdf9797e9" />
 
-Add screenshots of your UI here if you want.
+<img width="1336" height="350" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/bd4f991f-b22e-476f-9f35-140e6cba1e63" />
+
 
 🤝 Contributing
 
